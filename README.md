@@ -22,7 +22,7 @@ This project is a **responsive 3D can website** built using **HTML and CSS**. Th
 ## Installation & Usage
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+    https://github.com/ankitadutta10/Responsive-3D-Website.git
    ```
 2. **Open `index.html`** in a browser.
 3. **Enjoy the 3D Can Website!**
